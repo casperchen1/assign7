@@ -1,4 +1,4 @@
-# Pacman
+# Pacman 2.0
 ## Game Goal
 Eat as many pellets as you can! While avoiding the ghosts which are constanly hunting you.
 
