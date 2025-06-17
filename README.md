@@ -30,6 +30,13 @@ The Game is over either you've obtained all pellets, or get touched by the ghost
 
 All abilities will replenish every 50 points obtained.
 
+## Class Diagram
+![classdiagram](diagram.png)
+
+## Flow Chart
+![flowchart](flowchart.png)
+
 ## Tips 
 - Make use of the left-most and right-most tunnel on the map, ghosts cannot use those, and it can quickly make large distance between you and them.
 - Use flash thorugh walls to create distance, and use power up when you are surronded.
+
