@@ -4,6 +4,20 @@ Eat as many pellets as you can! While avoiding the ghosts which are constanly hu
 
 The Game is over either you've obtained all pellets, or get touched by the ghosts.
 
+## Quick Start
+create a build folder and enter it.
+```shell
+mkdir build && cd build
+```
+generate CMake files and build the executable
+```shell
+cmake .. && make
+```
+open exec
+```shell
+./exec
+```
+
 ## Controls
 | key | effects |
 | :--: | :--: |
